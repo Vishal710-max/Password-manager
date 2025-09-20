@@ -126,6 +126,7 @@ Account lockout after 3 failed attempts
 
 Clipboard auto-clear after configurable delay
 
+
 📊 Database Schema
 Users Collection
 json
@@ -152,9 +153,11 @@ Copy code
   "created_at": "DateTime",
   "updated_at": "DateTime"
 }
+
+
 🚦 Deployment
 Local
-bash
+ 
 Copy code
 streamlit run demo.py
 Docker
@@ -197,3 +200,4 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ⭐ Star this repo if useful
 
 🔐 SentinelKey – Your digital Guardian for password management
+
