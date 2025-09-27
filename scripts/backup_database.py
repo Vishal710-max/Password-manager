@@ -26,7 +26,8 @@ def backup_database():
             return False
            
     except Exception as e:
-#        print(f"❌ Backup error: {str(e)}")
+        print(f"❌ Backup error: {str(e)}")
 
         return False
+
 
