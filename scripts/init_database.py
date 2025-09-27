@@ -40,4 +40,5 @@ def setup_initial_admin():
 #
 #if __name__ == "__main__":
 
-#    setup_initial_admin()
+    setup_initial_admin()
+
