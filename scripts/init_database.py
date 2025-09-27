@@ -1,4 +1,4 @@
-scripts/init_database.py
+#scripts/init_database.py
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
@@ -39,4 +39,5 @@ def setup_initial_admin():
     return False
 #
 #if __name__ == "__main__":
+
 #    setup_initial_admin()
