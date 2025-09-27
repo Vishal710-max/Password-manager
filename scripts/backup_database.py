@@ -24,8 +24,9 @@ def backup_database():
         else:
             print(f"❌ Backup failed: {result.stderr}")
             return False
-#            
-#    except Exception as e:
+           
+    except Exception as e:
 #        print(f"❌ Backup error: {str(e)}")
 
         return False
+
