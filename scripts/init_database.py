@@ -37,8 +37,9 @@ def setup_initial_admin():
         print("⚠️  CHANGE THIS PASSWORD IMMEDIATELY AFTER FIRST LOGIN!")
         return True
     return False
-#
-#if __name__ == "__main__":
+
+if __name__ == "__main__":
 
     setup_initial_admin()
+
 
