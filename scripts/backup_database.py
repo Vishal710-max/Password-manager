@@ -1,4 +1,4 @@
-scripts/backup_database.py
+#scripts/backup_database.py
 from database import mongo_manager
 from datetime import datetime
 import subprocess
@@ -27,4 +27,5 @@ def backup_database():
 #            
 #    except Exception as e:
 #        print(f"❌ Backup error: {str(e)}")
+
         return False
