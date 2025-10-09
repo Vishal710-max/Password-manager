@@ -160,11 +160,13 @@ Local
  
 Copy code
 streamlit run demo.py
+
 Docker
 bash
 Copy code
 docker build -t sentinelkey-password-manager .
 docker run -p 8501:8501 sentinelkey-password-manager
+
 PM2
 bash
 Copy code
@@ -172,6 +174,8 @@ npm install -g pm2
 pm2 start "streamlit run demo.py" --name "sentinelkey"
 pm2 startup
 pm2 save
+
+
 🤝 Contributing
 Fork the repository
 
