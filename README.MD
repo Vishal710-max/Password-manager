@@ -189,10 +189,7 @@ Commit changes:
 bash
 Copy code
 git commit -m "Add amazing feature"
-Push to branch & open PR
-
-📄 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+Push to branch & open PR
 
 ⭐ Support
 📖 Check documentation
