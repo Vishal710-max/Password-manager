@@ -50,47 +50,45 @@ Example images to show:
   - assets/images/2fa.png
   - assets/images/admin.png
 
-HTML table gallery (2x2) — click any thumbnail to open the full image:
+## Demo / Screenshots
+## Screenshots
 
-<table>
-  <tr>
-    <td align="center">
-      [![Dashboard](assets/images/dashboard.png)](assets/images/dashboard.png)<br>
-      <strong>Figure 1</strong> — Dashboard (main overview)
-    </td>
-    <td align="center">
-      [![Login](assets/images/login.png)](assets/images/login.png)<br>
-      <strong>Figure 2</strong> — Login / Welcome Back
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      [![2FA Setup](assets/images/2fa.png)](assets/images/2fa.png)<br>
-      <strong>Figure 3</strong> — 2FA Setup
-    </td>
-    <td align="center">
-      [![Admin Panel](assets/images/admin.png)](assets/images/admin.png)<br>
-      <strong>Figure 4</strong> — Admin Panel / Database Stats
-    </td>
-  </tr>
-</table>
-
-If you prefer plain Markdown (vertical list), you can use:
-
-- ![Dashboard](assets/images/dashboard.png) — Figure 1: Dashboard (main overview)
-- ![Login](assets/images/login.png) — Figure 2: Login / Welcome Back
-- ![2FA Setup](assets/images/2fa.png) — Figure 3: 2FA Setup
-- ![Admin Panel](assets/images/admin.png) — Figure 4: Admin Panel / Database Stats
-
-Notes:
-- Add your image files to `assets/images/` in the repository (or change the paths above to match where you store them).
-- For large files prefer thumbnails or external hosting (YouTube, LinkedIn, etc.) to keep the repo size small.
-
-
-Place screenshots in `assets/images` and embed like:
-```markdown
-![Dashboard](assets/images/overview-dashboard.png)
-```
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="assets/images/dashboard.png">
+          <img src="assets/images/dashboard.png" alt="dashboard" width="520" />
+        </a>
+      </td>
+      <td>
+        <a href="assets/images/login.png">
+          <img src="assets/images/login.png" alt="login.png" width="520" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Figure 1.</strong> Home Page overview</td>
+      <td align="center"><strong>Figure 2.</strong>Login Page</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="assets/images/2fa.png">
+          <img src="assets/images/2fa.png" alt="2fa setup" width="520" />
+        </a>
+      </td>
+      <td>
+        <a href="assets/images/admin.png">
+          <img src="assets/images/admin.png" alt="Allocation chart" width="520" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Figure 3.</strong>2 fa Setup</td>
+      <td align="center"><strong>Figure 4.</strong>Admin Panel</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -275,5 +273,6 @@ Please open an issue to discuss larger changes before implementing.
 Created by Vishal (Vishal710-max). For questions, feature requests, or to report an issue, open an issue or a pull request in this repository.
 
 ---
+
 
 
