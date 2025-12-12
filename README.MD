@@ -233,8 +233,3 @@ Created by Vishal (Vishal710-max). For questions, feature requests, or to report
 
 ---
 
-If you want, I can:
-- produce a Dockerfile + docker-compose for easier deployment,
-- add a sample `.env.example` and `streamlit/secrets.toml` example,
-- or generate a small script to initialize the database and create an admin user automatically.
-
