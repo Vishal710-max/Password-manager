@@ -36,19 +36,11 @@ A secure, modern password manager built with Streamlit and MongoDB. Store encryp
 
 ## Demo / Screenshots
 
-Add screenshots to `assets/images/` and reference them in the README. Example assets in this repo include: `logo.png`, `password.png`.
-
-Example images to show:
+images to show:
 - Dashboard overview (saved services & quick actions)
-- Save / Update password UI
+- Login Page UI
 - 2FA provisioning (QR code)
 - Admin panel statistics
-
-- Recommended filenames:
-  - assets/images/dashboard.png
-  - assets/images/login.png
-  - assets/images/2fa.png
-  - assets/images/admin.png
 
 ## Demo / Screenshots
 ## Screenshots
@@ -273,6 +265,7 @@ Please open an issue to discuss larger changes before implementing.
 Created by Vishal (Vishal710-max). For questions, feature requests, or to report an issue, open an issue or a pull request in this repository.
 
 ---
+
 
 
 
