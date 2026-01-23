@@ -250,7 +250,7 @@ Please open an issue to discuss larger changes before implementing.
 ---
 
 ## License & Acknowledgements
-- Add your preferred license file (e.g., MIT) to the repository.
+-- This project is provided for personal and educational use.
 - Acknowledgements:
   - Streamlit — UI framework
   - cryptography — encryption utilities
@@ -262,9 +262,19 @@ Please open an issue to discuss larger changes before implementing.
 ---
 
 ## Contact
-Created by Vishal (Vishal710-max). For questions, feature requests, or to report an issue, open an issue or a pull request in this repository.
+Created by Vishal Bhingarde . For questions, feature requests, or to report an issue, open an issue or a pull request in this repository.
+
+- 📬 Contact Me on 
+
+- 📧 Email: bhingardevishal5@gmail.com
+
+- 💼 LinkedIn: www.linkedin.com/in/vishal-bhingarde-bb23a2376
+
+- 🐙 GitHub: [github.com/ ](https://github.com/Vishal710-max)
 
 ---
+
+
 
 
 
