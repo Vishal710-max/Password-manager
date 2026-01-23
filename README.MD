@@ -279,9 +279,20 @@ Please open an issue to discuss larger changes before implementing.
 ---
 
 
+## ⭐ Show Your Support
 
+If you found this project helpful, please give it a ⭐️!
 
+<div align="center">
 
+**Made with ❤️ by Vishal Bhingarde**
 
+[![Star this repo](https://img.shields.io/github/stars/Vishal710-max/Password-manager?style=social)](https://github.com/Vishal710-max/Password-manager)
+[![Fork this repo](https://img.shields.io/github/forks/Vishal710-max/Password-manager?style=social)](https://github.com/Vishal710-max/Password-manager/fork)
 
+</div>
+
+---
+
+<div align="center">
 
