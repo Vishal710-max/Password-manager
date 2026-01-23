@@ -17,7 +17,7 @@ A secure, modern password manager built with Streamlit and MongoDB. Store encryp
 - [Development](#development)
 - [Contributing](#contributing)
 - [License & Acknowledgements](#license--acknowledgements)
-- [Contact](#contact)
+- [Contact](#-contact)
 
 ---
 
@@ -261,18 +261,23 @@ Please open an issue to discuss larger changes before implementing.
 
 ---
 
-## Contact
-Created by Vishal Bhingarde . For questions, feature requests, or to report an issue, open an issue or a pull request in this repository.
+## 📬 Contact
 
-- 📬 Contact Me on 
+<div align="center">
 
-- 📧 Email: bhingardevishal5@gmail.com
+### **Vishal Bhingarde**
 
-- 💼 LinkedIn: www.linkedin.com/in/vishal-bhingarde-bb23a2376
+*React Developer | DSA Learner | Frontend Enthusiast*
 
-- 🐙 GitHub: [github.com/ ](https://github.com/Vishal710-max)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishal-bhingarde-bb23a2376)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Vishal710-max)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhingardevishal5@gmail.com)
+
+</div>
 
 ---
+
 
 
 
